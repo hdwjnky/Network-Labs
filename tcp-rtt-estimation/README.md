@@ -20,4 +20,5 @@ Analyzed a captured TCP trace (`lab15_tcp_trace.pcap`) to measure round-trip tim
 ## Key Takeaway
 This lab showed why TCP doesn't set a single fixed timeout value — a smoothed, adaptive estimate is what lets a connection stay reliable across changing network conditions without either timing out too aggressively or too slowly.
 
-*(Add your RTT and Timeout-vs-Packet screenshots here.)*
+<img width="790" height="379" alt="jacob-karel-table" src="https://github.com/user-attachments/assets/97507dd4-64be-4f54-89f2-f13128fb4f3e" />
+<img width="627" height="527" alt="rtt-graph" src="https://github.com/user-attachments/assets/67655ea9-dfaf-40a7-a540-93cf9ac1ff6c" />
