@@ -29,4 +29,5 @@ Captured and analyzed a live HTTP session to walk through TCP's three-way handsh
 ## Key Takeaway
 Reading the handshake and sequence numbers directly from packet captures made TCP's reliability mechanism tangible — rather than a diagram in a textbook, it's a specific pair of numbers you can point to in every single packet.
 
-*(Add your Wireshark screenshots here.)*
+<img width="901" height="355" alt="tcp-stream-overview" src="https://github.com/user-attachments/assets/4b72255b-38cc-4ed9-9c16-ef49bc89f400" />
+<img width="658" height="585" alt="tcp-segment-details" src="https://github.com/user-attachments/assets/c978a8dc-de76-427a-a32d-6573dae43431" />
